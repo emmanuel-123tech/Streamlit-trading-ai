@@ -1,5 +1,5 @@
-!pip install yfinance ta textblob newsapi-python ccxt alpaca-trade-api streamlit pyngrok
-!pip install alpha_vantage
+#!pip install yfinance ta textblob newsapi-python ccxt alpaca-trade-api streamlit pyngrok
+#!pip install alpha_vantage
 
 # Replace Alpaca with Yahoo Finance for stock data fetching
 import yfinance as yf
